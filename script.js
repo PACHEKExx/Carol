@@ -46,7 +46,7 @@
     function showPopup() {
         const popup = document.getElementById('popup-message');
         // MODIFICAR: Texto del mensaje emergente de instrucciones.
-        popup.textContent = '¡apaga las velas y revienta los globos!';
+        popup.textContent = 'Ya estas viejita xd Que pases bonito con tus niños';
         popup.classList.add('show');
         setTimeout(() => {
             popup.classList.remove('show');
@@ -246,4 +246,5 @@
         }
     }
 });
+
                             
